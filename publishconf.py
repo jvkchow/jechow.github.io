@@ -10,6 +10,7 @@ from pelicanconf import *
 SITEURL = 'https://jechow.github.io'
 RELATIVE_URLS = False
 
+GITHUB_URL = 'https://github.com/jvkchow'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
